@@ -25,6 +25,7 @@ if (!is_null($events['events'])) {
         $messages = [
   				'type' => 'text',
   				'text' => 'ชิมิ'
+        ];
       }
 
 			// Make a POST Request to Messaging API to reply to sender
